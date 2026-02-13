@@ -24,10 +24,10 @@ Smart Contract Integration
 ## 📸 Preview
 
 ### Live Gameplay
-![Gameplay](./assets/gameplay.png)
+[Gameplay](./assets/Gameplay.jpg)
 
 ### Web3 & NFT Integration (In Progress)
-![Web3 Settings](./assets/settings.png)
+![Web3 Settings](./assets/Settings.jpg)
 
 
 ## Author
