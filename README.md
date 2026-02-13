@@ -21,7 +21,7 @@ https://game-nftetris.vercel.app/game
 
 Smart Contract Integration
 
-## 📸 Preview
+## Preview
 
 ### Live Gameplay
 ![Gameplay](./assets/Gameplay.jpg)
