@@ -2,7 +2,7 @@
 
 ## NFT-integrated browser game featuring on-chain level upgrades and wallet-based interaction.
 
--Features
+## 🚀 Features
 
 ## NFT-based level upgrade system
 
